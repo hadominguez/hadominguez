@@ -1,7 +1,7 @@
 ## I am Hernán Ariel Domínguez
 <div align="left">
   <a href="https://app.daily.dev/hadominguez">
-    <img src="https://api.daily.dev/devcards/84e4174cac214a16aa955667f90f0d8c.png?r=5cg" width="400" align="right" alt="Domínguez Hernán's Dev Card"/>
+    <img src="https://github.com/hadominguez/hadominguez/blob/main/devcard.svg" width="400" align="right" alt="Domínguez Hernán's Dev Card"/>
   </a>
   
   <a href="https://www.linkedin.com/in/hadominguez/">
