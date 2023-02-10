@@ -1,19 +1,15 @@
 ## I am Hernán Ariel Domínguez
 
 <div align="left">
-
-
   <a href="https://app.daily.dev/hadominguez">
-    <img src="https://api.daily.dev/devcards/84e4174cac214a16aa955667f90f0d8c.png?r=5cg" width="400" align="right" alt="Dominguez Hernán's Dev Card"/>
+    <img src="https://github.com/hadominguez/hadominguez/blob/master/devcard.svg" width="400" align="right" alt="Tarjeta de desarrollo de Domínguez Hernán"/>
   </a>
-
+  
   <a href="https://www.linkedin.com/in/hadominguez/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0e76a8&label=LinkedIn&message=Hern%C3%A1n%20Dom%C3%ADnguez"
       alt="LinkedIn"
     />
-  </a>
-
 </div>
 
 - Developer at [Universidad Nacional de José C. Paz](https://unpaz.edu.ar/)
