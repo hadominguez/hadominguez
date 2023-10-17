@@ -48,3 +48,4 @@
   </a>
 </p>
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hadominguez/) and explore my [GitHub Page](https://hadominguez.github.io/) for more details!
