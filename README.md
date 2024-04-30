@@ -15,6 +15,7 @@
 - Developer at [Universidad Nacional de José C. Paz](https://unpaz.edu.ar/)
 - I have a degree in Information Technology Management
 - Currently studying for a Bachelor's Degree in Administration.
+- I am currently pursuing a Master's Degree in Software Engineering.
 - I love listening to music while programming
 
 ## My Skills
