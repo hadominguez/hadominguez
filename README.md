@@ -18,9 +18,9 @@
 - I am currently pursuing a Master's Degree in Software Engineering.
 - I love listening to music while programming
 
-## My Skills
+### My Skills
 
-### FRONT-END
+#### FRONT-END
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-### BACK-END
+#### BACK-END
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,ts,cs,py" />
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### DATABASE
+#### DATABASE
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
